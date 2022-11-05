@@ -1,26 +1,25 @@
 [
     {
         "id": "1",
-        "date": "2022-11-29",
-        "title": "Kevin Hart: Shorter Than Life",
+        "date": "2022-07-29",
+        "title": "Kevin Hart: Reality Check",
         "url": "https://www.hahaha.com/en/shows/kevin-hart-reality-check",
         "color": "#FF6347",
         "imageURL": "https://statique.festival-riremontreal.ca/sites/default/files/2022-04/JFM_KevinHart22_Concert_JFLweb_1296x443.png"
     },
     {
         "id": "2",
-        "date": "2022-11-29",
-        "title": "Kevin Hart: Shorter Than Life",
-        "url": "https://www.hahaha.com/en/shows/kevin-hart-reality-check",
-        "color": "#FF6347",
-        "imageURL": "https://statique.festival-riremontreal.ca/sites/default/files/2022-04/JFM_KevinHart22_Concert_JFLweb_1296x443.png"
+        "date": "2022-11-04",
+        "title": "Live From Japan! | Trillionaire Mindset - Episode 58",
+        "url": "https://www.youtube.com/watch?v=rViGx0U6Ogw",
+        "color": "#FF0000"
     },
     {
         "id": "3",
         "date": "2022-11-29",
         "title": "Kevin Hart: Shorter Than Life",
-        "url": "https://www.hahaha.com/en/shows/kevin-hart-reality-check",
-        "color": "#FF6347",
+        "url": "",
+        "color": "#00FF00",
         "imageURL": "https://statique.festival-riremontreal.ca/sites/default/files/2022-04/JFM_KevinHart22_Concert_JFLweb_1296x443.png"
     },
     {
